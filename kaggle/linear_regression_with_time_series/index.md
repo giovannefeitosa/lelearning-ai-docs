@@ -26,4 +26,16 @@ Below is a graph that shows how linear regression (blue line) is able to predict
 
 ![](./timeseries_results1.png)
 
+**Linear Regression with Indexes** (like above) are calculated with the following formula:
 
+```python
+target = weight * index + bias
+```
+
+We can analyze specific points in time by using a linear regression with **Lag Features**.
+
+For **Lag Features** you can get specifics points in time by using whether the index or the timestamp. You would use the following formula:
+
+```python
+target = weight * lag + bias
+```
