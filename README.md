@@ -7,5 +7,6 @@ but to be a centralized way to remember the concepts I have learnt.
 
 ## Table of Contents
 
+* [Image Annotations](./image-annotations/index.md)
 * [Yolo](./yolo/index.md)
-* [Linear Regression with Time Series](./kaggle/linear_regression_with_time_series/index.md)
+* [Kaggle - Linear Regression with Time Series](./kaggle/linear_regression_with_time_series/index.md)
