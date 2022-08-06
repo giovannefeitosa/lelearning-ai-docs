@@ -1,7 +1,10 @@
 # Linear Regression with Time Series
 
-Based in this kaggle course:
+* Kaggle course:
 [Linear Regression with Time Series](https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series)
+* [Original Notebook Copy](./linear-regression-with-time-series.ipynb)
+
+## Personal notes
 
 **Time Series**:
 It's possible to use the index as the timestamp for time series.
